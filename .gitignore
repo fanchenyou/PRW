@@ -26,3 +26,4 @@ data/*
 results/*
 figs/*
 *.pdf
+baseline/
