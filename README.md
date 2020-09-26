@@ -6,6 +6,19 @@
 python 3.7+, Numpy, Scikit-learn
 ```
 
+## Disclaimer
+This repository is modified from https://github.com/francoispierrepaty/SubspaceRobustWasserstein
+Please cite these papers if you use any part of the code
+
+```
+Paty, F. & Cuturi, M.. (2019). Subspace Robust Wasserstein Distances. 
+Proceedings of the 36th International Conference on Machine Learning, in PMLR 97:5072-5081
+```
+```
+Tianyi Lin, Chenyou Fan, Nhat Ho, Marco Cuturi, Michael I. Jordan. "Projection Robust Wasserstein Distance and Riemannian Optimization."
+Conference on Neural Information Processing Systems 2020 (NeurIPS'20)
+```
+
 ### Experiment 1, Hypercube:
 ```
 python exp1_hypercube.py

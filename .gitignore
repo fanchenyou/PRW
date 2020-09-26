@@ -25,5 +25,4 @@ data/*
 ./expO*.py
 results/*
 figs/*
-models/*
 *.pdf
