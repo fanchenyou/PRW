@@ -6,7 +6,7 @@
 python 3.7+, Numpy, Scikit-learn
 ```
 
-## Disclaimer
+## Citation
 This repository is modified from https://github.com/francoispierrepaty/SubspaceRobustWasserstein
 Please cite these papers if you use any part of the code
 
