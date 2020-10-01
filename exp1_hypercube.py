@@ -52,7 +52,7 @@ proj[1, 1] = 1
 np.random.seed(357)
 
 
-if 1==2:
+if 1==1:
     for indn in range(len(ns)):
         n = ns[indn]
         # Sample nb_exp times

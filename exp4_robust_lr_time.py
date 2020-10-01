@@ -56,7 +56,7 @@ times_PRW = np.zeros((2, len(lrs), nb_exp, nb_ds))
 
 np.random.seed(357)
 
-if 1 == 2:
+if 1 == 1:
     tic = time.time()
     tac = time.time()
 
